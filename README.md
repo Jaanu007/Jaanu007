@@ -25,10 +25,14 @@ A modern, responsive marketing agency website built with cutting-edge technologi
 
 ## 📸 Screenshots
 
-<img width="1080" height="515" alt="1000367053" src="https://github.com/user-attachments/assets/142f9597-76fe-40d1-ac49-55f7a5bfa9d2" />
-<img width="1080" height="2157" alt="1000367049" src="https://github.com/user-attachments/assets/b19f8b7c-969f-4e15-b6df-24daa93ac41a" />
-<img width="1080" height="2217" alt="1000367041" src="https://github.com/user-attachments/assets/5fc65216-ea9e-48c7-a999-51f60659a488" />
-<img width="1080" height="2143" alt="1000367039" src="https://github.com/user-attachments/assets/5d847d11-5c09-4a3d-89f1-7ae6a72b5e90" />
+<img width="1080" height="515" alt="1000367053" src="https://github.com/user-attachments/assets/9af6ad3a-e785-4300-8870-070fe5305935" />
+<img width="1073" height="2124" alt="1000367057" src="https://github.com/user-attachments/assets/f936a869-d475-460a-a4c2-3c5effe9e9f4" />
+<img width="1080" height="1894" alt="1000367058" src="https://github.com/user-attachments/assets/03b3f87f-a1ce-4ed9-8d6d-703cc8efbb80" />
+<img width="1080" height="1122" alt="1000367051" src="https://github.com/user-attachments/assets/62a03c61-bfcf-4ce5-affc-3efde39e9f66" />
+<img width="1080" height="2157" alt="1000367049" src="https://github.com/user-attachments/assets/d79a79ce-3262-4c74-9593-902d8fa0159d" />
+<img width="1080" height="2143" alt="1000367039" src="https://github.com/user-attachments/assets/d76874cc-50a6-4395-8858-48520de3ff4a" />
+<img width="1080" height="1847" alt="1000367037" src="https://github.com/user-attachments/assets/3b467d86-5816-47d4-bbc3-c401e24ade64" />
+
 
 
 
@@ -39,7 +43,7 @@ npm run dev
 \```
 
 ## 📞 Contact
-Built by [Abhinav Kulshreshtha](https:/<img width="1080" height="2400" alt="1000367032" src="https://github.com/user-attachments/assets/aef7905e-85a7-405e-897e-742b407385fa" />
+Built by [Abhinav Kulshreshtha](https:/
 /github.com/Jaanu007)
 For business inquiries: abhinavkul007@gmail.com
 

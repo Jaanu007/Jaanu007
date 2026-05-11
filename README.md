@@ -29,7 +29,7 @@ A modern, responsive marketing agency website built with cutting-edge technologi
 <img width="1080" height="2157" alt="1000367049" src="https://github.com/user-attachments/assets/b19f8b7c-969f-4e15-b6df-24daa93ac41a" />
 <img width="1080" height="2217" alt="1000367041" src="https://github.com/user-attachments/assets/5fc65216-ea9e-48c7-a999-51f60659a488" />
 <img width="1080" height="2143" alt="1000367039" src="https://github.com/user-attachments/assets/5d847d11-5c09-4a3d-89f1-7ae6a72b5e90" />
-<img width="1080" height="1122" alt="1000367051" src="https://github.com/user-attachments/assets/27a1597c-3968-4063-ac67-abeaa8f998b6" />
+
 
 
 ## 💻 Installation
